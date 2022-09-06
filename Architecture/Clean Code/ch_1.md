@@ -9,3 +9,4 @@ Clean code has a lot of features, not always described the same by different leg
 - Meaningful names
 - An object or method should only do one thing
 - Leave the campground cleaner than you found it
+
