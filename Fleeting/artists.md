@@ -61,7 +61,6 @@
 - Kazuo Oga - http://gurneyjourney.blogspot.com/2011/02/kazuo-oga.html
 - Victor Ishihara
 - Debbie Tsoi
-- 
 
 [https://www.devinkorwin.com/](https://twitter.com/devinkorwin)
 
@@ -82,9 +81,5 @@
 Aya Takano
 
 [https://www.artsy.net/artist/nome-edonna](https://www.artsy.net/artist/nome-edonna)
-
-[https://www.artsy.net/artist/damon-soule/works-for-sale](https://www.artsy.net/artist/damon-soule/works-for-sale)
-
-[https://www.artsy.net/artwork/nome-edonna-variantem-ad-infinitum](https://www.artsy.net/artwork/nome-edonna-variantem-ad-infinitum)
 
 [https://jlee.ca/](https://jlee.ca/)

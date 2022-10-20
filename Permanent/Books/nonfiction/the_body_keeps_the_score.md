@@ -2,6 +2,7 @@
 title: The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
 status: #book
 tags: #psychology
+rating: 4/5
 
 # The Body Keeps the Score
 

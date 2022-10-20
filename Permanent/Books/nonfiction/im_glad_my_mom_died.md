@@ -2,6 +2,7 @@
 title: I'm Glad My Mom Died
 status: #book
 tags: #memoir #family
+rating: 4/5
 ---
 
 ## The Book in Three Sentences
@@ -28,7 +29,7 @@ The book also calls into question our true responsibility toward our mothers and
 
 ## My Top Three Quotes
 
-
+N/A
 
 ---
 ### References
